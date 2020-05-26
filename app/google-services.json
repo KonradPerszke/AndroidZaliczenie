@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "590967022408",
+    "firebase_url": "https://androidzaliczenie-6aedd.firebaseio.com",
+    "project_id": "androidzaliczenie-6aedd",
+    "storage_bucket": "androidzaliczenie-6aedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590967022408:android:b5dc90eddb43c8bac6097d",
+        "android_client_info": {
+          "package_name": "com.example.androidzaliczenie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590967022408-k1h1bbk5l9hkcedrqa0f2l428c5oofhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidzaliczenie",
+            "certificate_hash": "11f61f27cbbdefc7e7c8821a317775a8167031c3"
+          }
+        },
+        {
+          "client_id": "590967022408-r7nkm9da5c5v2hmiojdgg5om30bpt40v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnz0N739Rt0SXDnr9_5jAcFCAoxFCMNDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590967022408-r7nkm9da5c5v2hmiojdgg5om30bpt40v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
