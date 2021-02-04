@@ -8,7 +8,5 @@ Nasza aplikacja po uprzednim zarejestrowaniu oraz zalogowaniu umożliwia sprawdz
 -Włącz android studio<br/>
 -Kliknij file>open...<br/>
 -Wybierz "AndroidZaliczenie"
-## Autorzy
--Michał Dziadczykowski<br/>
--Konrad Perszke<br/>
--Krzysztof Pisarczyk<br/>
+
+
